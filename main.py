@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import datetime as dt
 import smtplib
 
 EMAIL = "example@gmail.com"
